@@ -1,4 +1,4 @@
-#' Title
+#' Standardize a vector
 #'
 #' @param data A numerical vector to be standardized.
 #'
